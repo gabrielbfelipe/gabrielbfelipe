@@ -1,6 +1,8 @@
 # 💫 About Me:
 My name is Gabriel Belentani Felipe. I am 18 years old and I was born in Araraquara, São Paulo. I completed high school at SESI 339, which was integrated with a Systems Development technical course in partnership with SENAI 603.
+
 Currently, I am preparing to enter higher education by taking a preparatory course while seeking my first professional opportunity in technology. I am particularly interested in web development, especially backend development with Python. I have expanded my knowledge in this area and improved my technical skills.
+
 More information about my academic and professional background can be found on my LinkedIn profile.
 
 
