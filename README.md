@@ -1,5 +1,7 @@
 # 💫 About Me:
-Me chamo Gabriel Belentani Felipe, tenho 18 anos e sou natural de Araraquara – SP. Concluí o ensino médio integrado ao técnico em Desenvolvimento de Sistemas pelo SESI 339 em parceria com o SENAI.<br><br>Atualmente, estou me preparando para ingressar no ensino superior por meio de cursinho preparatório, enquanto busco minha primeira oportunidade profissional na área de tecnologia. Tenho maior interesse em desenvolvimento web, com foco em backend utilizando Python, área na qual venho aprofundando meus conhecimentos e desenvolvendo minhas habilidades técnicas.<br><br>Possuo perfil no LinkedIn, onde compartilho minha trajetória profissional e acadêmica.
+My name is Gabriel Belentani Felipe. I am 18 years old and I was born in Araraquara, São Paulo. I completed high school at SESI 339, which was integrated with a Systems Development technical course in partnership with SENAI 603.
+Currently, I am preparing to enter higher education by taking a preparatory course while seeking my first professional opportunity in technology. I am particularly interested in web development, especially backend development with Python. I have expanded my knowledge in this area and improved my technical skills.
+More information about my academic and professional background can be found on my LinkedIn profile.
 
 
 ## 🌐 Socials:
